@@ -2,5 +2,5 @@
 
 *Arduino based modules*
 
-* OSC_Hifi
-    Very simple oscillator (Mozzi, Hifi-Mode)
+1. *OSC_Hifi*
+   Very simple oscillator (Mozzi, Hifi-Mode)
