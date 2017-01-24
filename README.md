@@ -1,3 +1,6 @@
 # 45nm
 
-_ **Arduino based modules** _
+*Arduino based modules*
+
+* OSC_Hifi
+	Very simple oscillator (Mozzi, Hifi-Mode)
